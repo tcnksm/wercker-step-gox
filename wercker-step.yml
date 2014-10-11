@@ -1,0 +1,12 @@
+name: gox
+version: 0.1.2
+description: Cross-compiling golang project with mitchellh/gox
+kyewords:
+  - go
+  - golang
+  - cross-compile
+properties:
+    arch:
+      type: string
+    os:
+      type: string
