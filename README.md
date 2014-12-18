@@ -31,7 +31,7 @@ steps:
 
 You should use below wercker-boxes which are already setup [mitchellh/gox](https://github.com/mitchellh/gox):
 
-- [tcnksm/wercker-box-golang-build-dist](https://github.com/tcnksm/wercker-box-golang-build-dist)
+- [tcnksm/wercker-box-gox](https://github.com/tcnksm/wercker-box-gox)
 - [motemen/wercker-box-golang-gox](https://github.com/motemen/wercker-box-golang-gox)
 
 If you use wercker-box which is not installed [mitchellh/gox](https://github.com/mitchellh/gox), you need additional steps:
