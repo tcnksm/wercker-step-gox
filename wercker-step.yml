@@ -6,9 +6,11 @@ kyewords:
   - golang
   - cross-compile
 properties:
-    arch:
-      type: string
-    os:
-      type: string
-    ldflags:
-      type: string
+  arch:
+    type: string
+  os:
+    type: string
+  ldflags:
+    type: string
+  output:
+    type: string
